@@ -1,4 +1,4 @@
-Digital_clock_1BM23EC284
+Digital_clock_1BM23EC291
 AAT 2 - Digital Clock Design and Verification
 Author: Vikas S USN: 1BM23EC291 Section: E
 
